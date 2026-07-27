@@ -21,8 +21,8 @@
 
 - **Morgan Stanley FX Trading Coding Challenge** — 1st Place (EUR/GBP mean-reversion strategy, 1 of 9 teams)
 - **QuantiHack 2026** — Best Algorithm by P&L (qualifiers); 8th of 43 finalists from 300+ teams. Jane Street and Optiver sponsored.
-- **Wincent DragonByte 2026** — Onsite Finalist, Bratislava (190 pts vs 125 threshold)
-- **Williams Racing Work Experience** — Selected (10 of 3,000+)
+- **Wincent DragonByte 2026** — Onsite Finalist, Bratislava (226 pts vs 125 threshold)
+- **Williams Racing Work Experience** — Selected (75 of 3,000+)
 
 ---
 
