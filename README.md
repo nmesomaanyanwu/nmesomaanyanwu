@@ -1,7 +1,9 @@
-# Nmesoma Anyanwu
+<h1 align="center">Nmesoma Anyanwu</h1>
 
-Computer Science Student @ The University of Manchester
-Software Engineering Intern @ Compare the Market
+<p align="center">
+  Computer Science Student @ The University of Manchester<br>
+  Software Engineering Intern @ Compare the Market
+</p>
 
 ---
 
@@ -20,7 +22,6 @@ Software Engineering Intern @ Compare the Market
 - **Morgan Stanley FX Trading Coding Challenge** — 1st Place (EUR/GBP mean-reversion strategy, 1 of 9 teams)
 - **QuantiHack 2026** — Best Algorithm by P&L (qualifiers); 8th of 43 finalists from 300+ teams. Jane Street and Optiver sponsored.
 - **Wincent DragonByte 2026** — Onsite Finalist, Bratislava (190 pts vs 125 threshold)
-- **McKinsey Forward Business Leaders Programme** — Selected (12 of 5,000+)
 - **Williams Racing Work Experience** — Selected (10 of 3,000+)
 
 ---
@@ -33,13 +34,25 @@ C++ · Python · TypeScript · JavaScript · SQL · React · React Native · Nex
 
 ## Current Focus
 
-- Graphs & advanced DSA (NeetCode 150 in C++)
-- Quantitative finance & market microstructure
-- Low-latency C++ (building **SPARSE9**, a limit order book matching engine)
-- Operating systems (OSTEP) and network programming (Beej's Guide)
+- C++ STL
+- System Design
+- Design Patterns
+- Leetcode (Data Structures & Algorithms)
+- Operating Systems
+- Lock-free structures
+- Concurrency
+- Computer Architecture
+- Computer Networking
 
 ---
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [Email](mailto:YOUR-EMAIL)
+<p>
+  <a href="www.linkedin.com/in/nmesoma-anyanwu">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nmesomaanyanwu.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
