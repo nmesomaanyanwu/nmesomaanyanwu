@@ -23,9 +23,9 @@
 
 🏆 **QuantiHack 2026** — Best Algorithm by P&L (qualifiers); 8th of 43 finalists from 300+ teams. Jane Street and Optiver sponsored.
 
-🎯 **Wincent DragonByte 2026** — Onsite Finalist, Bratislava (190 pts vs 125 threshold)
+🎯 **Wincent DragonByte 2026** — Onsite Finalist, Bratislava (226 pts vs 125 threshold)
 
-🏁 **Williams Racing Work Experience** — Selected (10 of 3,000+)
+🏁 **Williams Racing Work Experience** — Selected (75 of 3,000+)
 
 ---
 
