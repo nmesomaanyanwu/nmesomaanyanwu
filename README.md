@@ -49,6 +49,14 @@ C++ · Python · TypeScript · JavaScript · SQL · React · React Native · Nex
 
 ---
 
+## Writing
+
+I write about systems programming and the design decisions behind SPARSE9 on [The Latency Log](https://nmesomaanyanwu.hashnode.dev).
+
+Recent posts:
+- [Traversal Order Is Ownership Order](https://nmesomaanyanwu.hashnode.dev/traversal-order-is-ownership-order)
+- [Building a Limit Order Book From Scratch (Part 1): Why This Project](https://nmesomaanyanwu.hashnode.dev/...)
+
 ## Connect
 
 
