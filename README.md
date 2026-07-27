@@ -48,8 +48,9 @@ C++ · Python · TypeScript · JavaScript · SQL · React · React Native · Nex
 
 ## Connect
 
+
 <p>
-  <a href="www.linkedin.com/in/nmesoma-anyanwu">
+  <a href="https://www.linkedin.com/in/nmesoma-anyanwu">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:nmesomaanyanwu.work@gmail.com">
