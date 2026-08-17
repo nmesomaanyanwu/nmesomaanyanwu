@@ -56,6 +56,7 @@ I write about systems programming and the design decisions behind SPARSE9 on [Th
 Recent posts:
 - [Traversal Order Is Ownership Order](https://nmesomaanyanwu.hashnode.dev/traversal-order-is-ownership-order)
 - [Building a Limit Order Book From Scratch (Part 1): Why This Project](https://nmesomaanyanwu.hashnode.dev/...)
+- [The Networking layer](https://nmesomaanyanwu.hashnode.dev/latency-the-networking-layer)
 
 ## Connect
 
