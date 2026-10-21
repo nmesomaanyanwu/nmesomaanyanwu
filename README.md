@@ -27,9 +27,14 @@
 
 ## Featured Project
 
-**[SPARSE9](https://github.com/nmesomaanyanwu/SPARSE9) — Limit Order Book Matching Engine** (C++20, TCP/IP, CMake)
-Matching engine with full price-time priority and LIMIT, MARKET, IOC and FOK orders, with O(1) cancellation. Measured **84 ns median / 584 ns p99** matching-core latency and **4.8 µs / 11.6 µs** end-to-end order-to-ack over 10M orders. Single-writer book fed by a bounded MPSC queue. Currently adding Kalshi and Polymarket market-data handlers to test whether displayed prediction-market prices are executable at quoted size.
+### [SPARSE9](https://github.com/nmesomaanyanwu/SPARSE9) — Limit Order Book Matching Engine
+*C++20 · TCP/IP · CMake*
 
+- Matches buy and sell orders over TCP with full price-time priority, supporting LIMIT, MARKET, IOC and FOK orders
+- Cancels any order in O(1) by mapping each order ID straight to its place in the book
+- Feeds a single-writer book from a bounded MPSC queue, avoiding locks so updates can't tear or deadlock
+- Matches in 84 ns median / 584 ns p99, and acknowledges orders end to end in 4.8 µs / 11.6 µs over 10M orders
+- Next up: Kalshi and Polymarket market-data handlers, to test whether displayed prediction-market prices are executable at quoted size
 ---
 
 ## Achievements
@@ -43,9 +48,59 @@ Matching engine with full price-time priority and LIMIT, MARKET, IOC and FOK ord
 
 ## Technical Skills
 
-**Systems and low latency:** C++ · C · multithreading · atomics and memory ordering · lock-free queues · TCP/IP · Linux · perf · gdb
-**Quant and data:** Python · pandas · NumPy · backtesting · time-series analysis · statistics
-**Backend and web:** C# · .NET · FastAPI · PostgreSQL · TypeScript · React · React Native · Supabase · AWS · Docker · GitHub Actions
+**Systems and low latency**
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/C%2B%2B-1f6feb?style=for-the-badge" alt="C++"/></td>
+    <td><img src="https://img.shields.io/badge/C-1f6feb?style=for-the-badge" alt="C"/></td>
+    <td><img src="https://img.shields.io/badge/Multithreading-1f6feb?style=for-the-badge" alt="Multithreading"/></td>
+    <td><img src="https://img.shields.io/badge/Atomics%20%26%20Memory%20Ordering-1f6feb?style=for-the-badge" alt="Atomics and Memory Ordering"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Lock--Free%20Queues-1f6feb?style=for-the-badge" alt="Lock-Free Queues"/></td>
+    <td><img src="https://img.shields.io/badge/TCP%2FIP-1f6feb?style=for-the-badge" alt="TCP/IP"/></td>
+    <td><img src="https://img.shields.io/badge/Linux-1f6feb?style=for-the-badge" alt="Linux"/></td>
+    <td><img src="https://img.shields.io/badge/perf-1f6feb?style=for-the-badge" alt="perf"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/gdb-1f6feb?style=for-the-badge" alt="gdb"/></td>
+  </tr>
+</table>
+
+**Quant and data**
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Python-2ea043?style=for-the-badge" alt="Python"/></td>
+    <td><img src="https://img.shields.io/badge/pandas-2ea043?style=for-the-badge" alt="pandas"/></td>
+    <td><img src="https://img.shields.io/badge/NumPy-2ea043?style=for-the-badge" alt="NumPy"/></td>
+    <td><img src="https://img.shields.io/badge/Backtesting-2ea043?style=for-the-badge" alt="Backtesting"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Time--Series%20Analysis-2ea043?style=for-the-badge" alt="Time-Series Analysis"/></td>
+    <td><img src="https://img.shields.io/badge/Statistics-2ea043?style=for-the-badge" alt="Statistics"/></td>
+  </tr>
+</table>
+
+**Backend and web**
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/C%23-8957e5?style=for-the-badge" alt="C#"/></td>
+    <td><img src="https://img.shields.io/badge/.NET-8957e5?style=for-the-badge" alt=".NET"/></td>
+    <td><img src="https://img.shields.io/badge/FastAPI-8957e5?style=for-the-badge" alt="FastAPI"/></td>
+    <td><img src="https://img.shields.io/badge/PostgreSQL-8957e5?style=for-the-badge" alt="PostgreSQL"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/TypeScript-8957e5?style=for-the-badge" alt="TypeScript"/></td>
+    <td><img src="https://img.shields.io/badge/React-8957e5?style=for-the-badge" alt="React"/></td>
+    <td><img src="https://img.shields.io/badge/React%20Native-8957e5?style=for-the-badge" alt="React Native"/></td>
+    <td><img src="https://img.shields.io/badge/Supabase-8957e5?style=for-the-badge" alt="Supabase"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/AWS-8957e5?style=for-the-badge" alt="AWS"/></td>
+    <td><img src="https://img.shields.io/badge/Docker-8957e5?style=for-the-badge" alt="Docker"/></td>
+    <td><img src="https://img.shields.io/badge/GitHub%20Actions-8957e5?style=for-the-badge" alt="GitHub Actions"/></td>
+  </tr>
+</table>
 
 ---
 
