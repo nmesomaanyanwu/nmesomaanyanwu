@@ -1,16 +1,8 @@
 <h1 align="center">Nmesoma Anyanwu</h1>
 
 <p align="center">
-  Computer Science @ The University of Manchester<br>
-  Low-latency systems · Quantitative development
+  Computer Science @ The University of Manchester
 </p>
-
----
-
-## Featured Project
-
-**[SPARSE9](https://github.com/nmesomaanyanwu/SPARSE9) — Limit Order Book Matching Engine** (C++20, TCP/IP, CMake)
-Matching engine with full price-time priority and LIMIT, MARKET, IOC and FOK orders, with O(1) cancellation. Measured **84 ns median / 584 ns p99** matching-core latency and **4.8 µs / 11.6 µs** end-to-end order-to-ack over 10M orders. Single-writer book fed by a bounded MPSC queue. Currently adding Kalshi and Polymarket market-data handlers to test whether displayed prediction-market prices are executable at quoted size.
 
 ---
 
@@ -33,13 +25,19 @@ Matching engine with full price-time priority and LIMIT, MARKET, IOC and FOK ord
 
 ---
 
+## Featured Project
+
+**[SPARSE9](https://github.com/nmesomaanyanwu/SPARSE9) — Limit Order Book Matching Engine** (C++20, TCP/IP, CMake)
+Matching engine with full price-time priority and LIMIT, MARKET, IOC and FOK orders, with O(1) cancellation. Measured **84 ns median / 584 ns p99** matching-core latency and **4.8 µs / 11.6 µs** end-to-end order-to-ack over 10M orders. Single-writer book fed by a bounded MPSC queue. Currently adding Kalshi and Polymarket market-data handlers to test whether displayed prediction-market prices are executable at quoted size.
+
+---
+
 ## Achievements
 
 - **Morgan Stanley FX Trading Challenge** — 1st place (EUR/GBP mean reversion, 1 of 9 teams)
 - **QuantiHack 2026** (Jane Street and Optiver) — 3rd of 300+ teams, Best Algorithm by P&L; 8th of 43 at the finals
 - **UKIEPC 2026** (ICPC UK & Ireland Subregional) — Top 16%
 - **Jane Street Monthly Puzzle** — Published solver (*Andy's Afternoon Amble*)
-- **Wincent DragonByte 2026** — Onsite finalist, Bratislava
 
 ---
 
@@ -75,6 +73,6 @@ I write about systems programming and the design decisions behind SPARSE9 on [Th
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:nmesomaanyanwu.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=linkedin&logoColor=white" alt="Email"/>
   </a>
 </p>
