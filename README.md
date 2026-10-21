@@ -49,58 +49,45 @@
 ## Technical Skills
 
 **Systems and low latency**
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/C%2B%2B-1f6feb?style=for-the-badge" alt="C++"/></td>
-    <td><img src="https://img.shields.io/badge/C-1f6feb?style=for-the-badge" alt="C"/></td>
-    <td><img src="https://img.shields.io/badge/Multithreading-1f6feb?style=for-the-badge" alt="Multithreading"/></td>
-    <td><img src="https://img.shields.io/badge/Atomics%20%26%20Memory%20Ordering-1f6feb?style=for-the-badge" alt="Atomics and Memory Ordering"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Lock--Free%20Queues-1f6feb?style=for-the-badge" alt="Lock-Free Queues"/></td>
-    <td><img src="https://img.shields.io/badge/TCP%2FIP-1f6feb?style=for-the-badge" alt="TCP/IP"/></td>
-    <td><img src="https://img.shields.io/badge/Linux-1f6feb?style=for-the-badge" alt="Linux"/></td>
-    <td><img src="https://img.shields.io/badge/perf-1f6feb?style=for-the-badge" alt="perf"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/gdb-1f6feb?style=for-the-badge" alt="gdb"/></td>
-  </tr>
-</table>
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-1f6feb?style=for-the-badge" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-1f6feb?style=for-the-badge" alt="C"/>
+  <img src="https://img.shields.io/badge/Multithreading-1f6feb?style=for-the-badge" alt="Multithreading"/>
+  <img src="https://img.shields.io/badge/Atomics%20%26%20Memory%20Ordering-1f6feb?style=for-the-badge" alt="Atomics and Memory Ordering"/><br>
+  <img src="https://img.shields.io/badge/Lock--Free%20Queues-1f6feb?style=for-the-badge" alt="Lock-Free Queues"/>
+  <img src="https://img.shields.io/badge/TCP%2FIP-1f6feb?style=for-the-badge" alt="TCP/IP"/>
+  <img src="https://img.shields.io/badge/Linux-1f6feb?style=for-the-badge" alt="Linux"/>
+  <img src="https://img.shields.io/badge/perf-1f6feb?style=for-the-badge" alt="perf"/><br>
+  <img src="https://img.shields.io/badge/gdb-1f6feb?style=for-the-badge" alt="gdb"/>
+</p>
 
 **Quant and data**
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Python-2ea043?style=for-the-badge" alt="Python"/></td>
-    <td><img src="https://img.shields.io/badge/pandas-2ea043?style=for-the-badge" alt="pandas"/></td>
-    <td><img src="https://img.shields.io/badge/NumPy-2ea043?style=for-the-badge" alt="NumPy"/></td>
-    <td><img src="https://img.shields.io/badge/Backtesting-2ea043?style=for-the-badge" alt="Backtesting"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Time--Series%20Analysis-2ea043?style=for-the-badge" alt="Time-Series Analysis"/></td>
-    <td><img src="https://img.shields.io/badge/Statistics-2ea043?style=for-the-badge" alt="Statistics"/></td>
-  </tr>
-</table>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-2ea043?style=for-the-badge" alt="Python"/>
+  <img src="https://img.shields.io/badge/pandas-2ea043?style=for-the-badge" alt="pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-2ea043?style=for-the-badge" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Backtesting-2ea043?style=for-the-badge" alt="Backtesting"/><br>
+  <img src="https://img.shields.io/badge/Time--Series%20Analysis-2ea043?style=for-the-badge" alt="Time-Series Analysis"/>
+  <img src="https://img.shields.io/badge/Statistics-2ea043?style=for-the-badge" alt="Statistics"/>
+</p>
 
 **Backend and web**
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/C%23-8957e5?style=for-the-badge" alt="C#"/></td>
-    <td><img src="https://img.shields.io/badge/.NET-8957e5?style=for-the-badge" alt=".NET"/></td>
-    <td><img src="https://img.shields.io/badge/FastAPI-8957e5?style=for-the-badge" alt="FastAPI"/></td>
-    <td><img src="https://img.shields.io/badge/PostgreSQL-8957e5?style=for-the-badge" alt="PostgreSQL"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/TypeScript-8957e5?style=for-the-badge" alt="TypeScript"/></td>
-    <td><img src="https://img.shields.io/badge/React-8957e5?style=for-the-badge" alt="React"/></td>
-    <td><img src="https://img.shields.io/badge/React%20Native-8957e5?style=for-the-badge" alt="React Native"/></td>
-    <td><img src="https://img.shields.io/badge/Supabase-8957e5?style=for-the-badge" alt="Supabase"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/AWS-8957e5?style=for-the-badge" alt="AWS"/></td>
-    <td><img src="https://img.shields.io/badge/Docker-8957e5?style=for-the-badge" alt="Docker"/></td>
-    <td><img src="https://img.shields.io/badge/GitHub%20Actions-8957e5?style=for-the-badge" alt="GitHub Actions"/></td>
-  </tr>
-</table>
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-8957e5?style=for-the-badge" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-8957e5?style=for-the-badge" alt=".NET"/>
+  <img src="https://img.shields.io/badge/FastAPI-8957e5?style=for-the-badge" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-8957e5?style=for-the-badge" alt="PostgreSQL"/><br>
+  <img src="https://img.shields.io/badge/TypeScript-8957e5?style=for-the-badge" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-8957e5?style=for-the-badge" alt="React"/>
+  <img src="https://img.shields.io/badge/React%20Native-8957e5?style=for-the-badge" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Supabase-8957e5?style=for-the-badge" alt="Supabase"/><br>
+  <img src="https://img.shields.io/badge/AWS-8957e5?style=for-the-badge" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-8957e5?style=for-the-badge" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-8957e5?style=for-the-badge" alt="GitHub Actions"/>
+</p>
 
 ---
 
